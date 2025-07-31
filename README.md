@@ -33,7 +33,7 @@ Before running this project, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crud-supabase-test.git
+   git clone https://github.com/devpayoub/CRUD-supabase.git
    cd crud-supabase-test
    ```
 
@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with this project:
 
-1. Check the [Issues](https://github.com/yourusername/crud-supabase-test/issues) page
+1. Check the [Issues](https://github.com/devpayoub/CRUD-supabase/issues) page
 2. Create a new issue with a detailed description
 3. Include your environment details and error messages
 
